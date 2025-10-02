@@ -1,3 +1,4 @@
+
 # BMI Calculator Web App
 
 ## Overview
@@ -22,3 +23,4 @@ The **BMI Calculator** is a simple web application built with HTML, CSS, and Jav
 - **HTML** – Structure of the webpage and form elements.
 - **CSS** – Styling for layout, text, and colors.
 - **JavaScript** – Functionality for BMI calculation, form validation, and dynamic results.
+
